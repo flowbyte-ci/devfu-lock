@@ -1,5 +1,3 @@
 sudo: false
-#before_install: bash lockfu.sh
-#before_script: echo BEFORE_SCRIPT
 rvm:
   - 2.3.1
